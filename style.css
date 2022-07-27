@@ -1,0 +1,15 @@
+.toast {
+  width: 240px;
+  height: 40px;
+  top: 40%;
+  right: 1%;
+}
+.btn-close {
+  width: 2px;
+  height: 2px;
+  color: rgb(249, 1, 21);
+}
+.fa-gift {
+  margin-right: 5px;
+  color: rgb(53, 56, 241);
+}
