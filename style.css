@@ -13,3 +13,44 @@
   margin-right: 5px;
   color: rgb(53, 56, 241);
 }
+
+/* grid */
+
+.col {
+  height: 387px;
+  width: 232px;
+  margin-right: 0 34px;
+}
+.colNo3 {
+  height: 420px;
+  border-radius: 20px;
+  padding: 20px;
+  /* margin-bottom: 30px; */
+}
+.button {
+}
+.hot {
+  top: 0px;
+  left: 80%;
+}
+
+.people {
+  height: 85px;
+  width: 85px;
+}
+
+.card-group {
+  margin: 100px 100px 0;
+}
+.card {
+  margin: 0 30px;
+}
+.accordion-part {
+  height: 500px;
+}
+.people-img {
+  position: sticky;
+}
+.android {
+  width: 120px;
+}
